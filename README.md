@@ -16,4 +16,4 @@ The Machine Learning model is implemented in Python.
 The following figure shows the Multiple Linear Regression prediction
 in this case.
 
-![plot] figure1.png
+![plot](figure1.png)

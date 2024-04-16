@@ -4,7 +4,7 @@ In this Multiple Linear Regression Example,
  we consider whether it is possible to predict the car engine size
  (in [cc]), from its Length, Seating Capacity and Fuel Tank Capacity.
 
-The answer is YES! 🙂 The current example clearly shows this by
+The answer is YES! :) The current example clearly shows this by
  using the Multiple Linear Regression Machine Learning model.
 
 To do this exercise, I have used a vehicle dataset from Kaggle. (Here is the address of this dataset: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
